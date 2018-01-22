@@ -31,7 +31,7 @@
     "performance",
     "dom"
   ],
-  "main": "dist/hyperlist.js",
+  "main": "lib/index.js",
   "bugs": {
     "url": "https://github.com/tbranyen/hyperlist/issues"
   },
