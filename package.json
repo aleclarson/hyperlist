@@ -49,5 +49,8 @@
   "contributors": [
     "Sergi Mansilla <sergi.mansilla@gmail.com>"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "is-object": "^1.0.1"
+  }
 }
